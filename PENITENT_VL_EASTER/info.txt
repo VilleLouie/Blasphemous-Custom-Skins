@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_VL_EASTER",
+  "name": "Dias de Pascua",
+  "author": "Ville Louie",
+  "version": "1.0.0"
+}

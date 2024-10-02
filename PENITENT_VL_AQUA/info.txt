@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_VL_AQUA",
+  "name": "Hermandad De La Sal",
+  "author": "Ville Louie",
+  "version": "1.0.0"
+}

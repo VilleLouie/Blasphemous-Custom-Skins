@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_VL_PUMPKIN2",
+  "name": "Black Halloween",
+  "author": "VilleLouie",
+  "version": "1.0.0"
+}

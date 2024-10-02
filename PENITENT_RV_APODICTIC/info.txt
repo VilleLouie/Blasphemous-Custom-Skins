@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_RV_APODICTIC",
-  "name": "Apodictic Mantle",
-  "author": "Raider",
-  "version": "1.0.0"
-}

@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_JD_DIAMOND",
+  "name": "Jimmiest of Diamonds",
+  "author": "JimmyDiamonds",
+  "version": "1.0.0"
+}

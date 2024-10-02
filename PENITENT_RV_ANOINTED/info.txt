@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_RV_ANOINTED",
-  "name": "Anointed Legionary",
-  "author": "Raider",
-  "version": "1.0.0"
-}

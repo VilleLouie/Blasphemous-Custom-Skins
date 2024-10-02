@@ -1,6 +1,3 @@
-# How to add a custom skin for Blasphemous 1 or 2
-
-1. Use the [Skin Editor](https://github.com/BrandenEK/Blasphemous-Skin-Editor) to create and export your custom skin
-2. Create a fork of this repository
-3. In either the "blasphemous1" or "blasphemous2" directory, upload the folder that was created by the skin editor
-4. Create a pull request to merge your branch into the main branch on this repository
+Hi, I have a problem. I want to play with my custom skins, but when I start the game from the mod installer I get this error: "Could not find configuration file in C:/Games/Blasphemous/doorstep_config.ini"
+Please note that I disabled my antivirus when unzipping and installing the Blazmodinstaller.
+If you could help me, I would be more than grateful. You can contact me through my Instagram profile @vvklaus_
